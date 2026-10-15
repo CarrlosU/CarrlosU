@@ -44,18 +44,18 @@
 
 ## About Me
 
-I'm a Systems Engineering student and Full Stack Developer focused on building modern applications, robust APIs, and scalable software architectures.
+I'm a Systems Engineer and Full Stack Developer focused on building modern applications, robust APIs, and scalable software architectures.
 
-I enjoy solving complex technical problems through clean architecture, database optimization, automation, and secure engineering practices.
+I specialize in solving complex technical problems through clean architecture, database optimization, automation, and secure engineering practices.
 
 - **Backend:** Python, FastAPI, SQLAlchemy, REST APIs.
 - **Frontend:** TypeScript, React, Next.js, Tailwind CSS.
 - **Data:** PostgreSQL, Redis, SQL optimization.
 - **Infrastructure:** Docker, Linux, Nginx, CI/CD.
-- **Engineering:** Automated testing, application security, performance and scalability.
-- **Interests:** SaaS platforms, AI-powered applications, distributed systems and DevOps.
+- **Software Engineering:** Automated testing, application security, performance, and scalability.
+- **Interests:** SaaS platforms, AI-powered applications, distributed systems, and DevOps.
 
-My goal is to build software that is not only functional, but also maintainable, observable, secure, and ready for production.
+My goal is to engineer software that is not only functional, but also maintainable, observable, secure, and production-ready.
 
 ---
 

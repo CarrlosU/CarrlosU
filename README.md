@@ -1,9 +1,11 @@
-
 <!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:09090b,45:3b0764,100:6C3BFF&text=Carlos%20Urrego&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=60&animation=fadeIn" alt="Carlos Urrego — Software Engineer and Full Stack Developer"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:09090b,45:3b0764,100:6C3BFF&text=Carlos%20Urrego&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=60&animation=fadeIn"
+/>
 
 <br/>
 
@@ -21,7 +23,7 @@
 
 **Building scalable, secure, and high-performance software.**
 
-*Backend Engineering · Full Stack Development · DevOps*
+*Software Architecture · Backend Engineering · Full Stack Development · DevOps*
 
 </div>
 
@@ -29,55 +31,106 @@
 
 ## About Me
 
-I'm a Systems Engineer and Full Stack Developer focused on building modern applications, robust APIs, and scalable software architectures.
+I'm a Systems Engineer and Full Stack Developer passionate about designing and building modern software systems, scalable applications, and reliable APIs.
 
-My main interests are backend engineering, database optimization, application security, automation, and production-ready software.
+My work focuses on backend engineering, system architecture, database optimization, application security, and infrastructure automation.
 
-- **Backend:** Python, FastAPI, SQLAlchemy, REST APIs.
-- **Frontend:** TypeScript, React, Next.js, Tailwind CSS.
-- **Databases:** PostgreSQL, Redis, SQL optimization.
-- **Infrastructure:** Docker, Linux, Nginx, CI/CD.
-- **Engineering:** Software architecture, automated testing, security, and performance.
+I approach software development from an architectural perspective, considering maintainability, performance, scalability, security, and long-term evolution from the design stage.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,bash&theme=dark" alt="Python, TypeScript, JavaScript, Java and Bash"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,bash&theme=dark" alt="Programming languages"/>
+</p>
 
 ### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,nodejs&theme=dark" alt="FastAPI, Flask, Spring and Node.js"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,nodejs&theme=dark" alt="Backend technologies"/>
+</p>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="React, Next.js, Tailwind CSS, HTML and CSS"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend technologies"/>
+</p>
 
-### Databases & Infrastructure
+### Databases & Caching
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" alt="PostgreSQL, MongoDB, Redis and MySQL"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" alt="Databases and caching"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions&theme=dark" alt="Docker, Linux, Nginx, Git, GitHub and GitHub Actions"/>
+### Infrastructure & Developer Tools
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vscode&theme=dark" alt="Infrastructure and developer tools"/>
+</p>
 
 ---
 
-## Featured Projects
+## System Architecture & Engineering
 
-### DimeloIA
+I'm particularly interested in how software components interact to form reliable, secure, and scalable systems.
 
-AI-powered conversational quotation platform designed to help businesses create product quotations using natural language.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-**Focus:** Conversational AI, product catalogs, quotation workflows, and backend engineering.
+### Software Architecture
 
-**Technologies:** Python · FastAPI · PostgreSQL · Redis
+- System design and architectural patterns
+- Modular and maintainable applications
+- Separation of concerns and clean architecture
+- API contracts and service integration
+- Multi-tenant system design
+- Scalability and resilience
 
-[Explore my repositories →](https://github.com/CarrlosU?tab=repositories)
+    </td>
+    <td width="50%" valign="top">
+
+### Backend & Data Engineering
+
+- REST API design and implementation
+- Relational database modeling
+- SQL query optimization and indexing
+- Authentication and authorization
+- Caching and data access strategies
+- Data isolation and application security
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### Quality & Reliability
+
+- Automated testing
+- Strong typing and validation
+- Logging and observability
+- Error handling and fault isolation
+- Performance analysis
+- Secure development practices
+
+    </td>
+    <td width="50%" valign="top">
+
+### Infrastructure & DevOps
+
+- Docker-based environments
+- Linux server administration
+- Reverse proxies and deployment
+- CI/CD automation
+- Environment and configuration management
+- Production monitoring and optimization
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -86,20 +139,35 @@ AI-powered conversational quotation platform designed to help businesses create 
 <div align="center">
 
 <a href="https://github.com/CarrlosU">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CarrlosU&show_icons=true&hide_border=true&bg_color=09090b&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&rank_icon=github" alt="GitHub statistics"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=CarrlosU&show_icons=true&hide_border=true&bg_color=09090b&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&rank_icon=github"
+    alt="GitHub statistics"
+  />
 </a>
-
 <a href="https://github.com/CarrlosU">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarrlosU&layout=compact&hide_border=true&bg_color=09090b&title_color=A78BFA&text_color=E4E4E7&langs_count=8" alt="Most used programming languages"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarrlosU&layout=compact&hide_border=true&bg_color=09090b&title_color=A78BFA&text_color=E4E4E7&langs_count=8"
+    alt="Most used programming languages"
+  />
 </a>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=CarrlosU&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=9CA3AF" alt="GitHub contribution streak"/>
+<img
+  width="80%"
+  src="https://streak-stats.demolab.com?user=CarrlosU&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=9CA3AF"
+  alt="GitHub contribution streak"
+/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CarrlosU&bg_color=09090b&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=CarrlosU&bg_color=09090b&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  alt="GitHub contribution activity graph"
+/>
 
 </div>
 
@@ -112,15 +180,18 @@ AI-powered conversational quotation platform designed to help businesses create 
 <a href="https://github.com/CarrlosU">
   <img src="https://img.shields.io/badge/GitHub-CarrlosU-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
 </a>
-
 <a href="https://github.com/CarrlosU?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-6C3BFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/>
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-6C3BFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
 </a>
 
 <br/><br/>
 
-*Engineering better software through architecture, automation, and continuous improvement.*
+*Designing systems. Engineering solutions. Building for scale.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BFF,100:09090b&height=100&section=footer" alt="Purple gradient footer"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BFF,100:09090b&height=100&section=footer"
+  alt="Purple gradient footer"
+/>
 
 </div>

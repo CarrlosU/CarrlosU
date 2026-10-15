@@ -2,7 +2,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:09090b,45:3b0764,100:6C3BFF&text=Carlos%20S.%20Urrego&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=16&descAlignY=60&animation=fadeIn" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:09090b,45:3b0764,100:6C3BFF&text=Carlos%20Urrego&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=16&descAlignY=60&animation=fadeIn"
+/>
 
 <br/>
 

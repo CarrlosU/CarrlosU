@@ -9,14 +9,25 @@
 
 <br/>
 
-<a href="https://github.com/CarlosU">
-  <img src="https://komarev.com/ghpvc/?username=CarlosU&style=for-the-badge&color=6C3BFF&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/CarrlosU">
+  <img
+    src="https://komarev.com/ghpvc/?username=CarrlosU&style=for-the-badge&color=6C3BFF&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
 </a>
-<a href="https://github.com/CarlosU?tab=followers">
-  <img src="https://img.shields.io/github/followers/CarlosU?style=for-the-badge&logo=github&label=FOLLOWERS&color=6C3BFF" alt="GitHub followers"/>
+
+<a href="https://github.com/CarrlosU?tab=followers">
+  <img
+    src="https://img.shields.io/github/followers/CarrlosU?style=for-the-badge&logo=github&label=FOLLOWERS&color=6C3BFF"
+    alt="GitHub followers"
+  />
 </a>
-<a href="https://github.com/CarlosU?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-6C3BFF?style=for-the-badge&logo=github" alt="Repositories"/>
+
+<a href="https://github.com/CarrlosU?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Repositories-Explore-6C3BFF?style=for-the-badge&logo=github"
+    alt="Repositories"
+  />
 </a>
 
 <br/><br/>

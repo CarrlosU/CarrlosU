@@ -161,14 +161,6 @@ I'm particularly interested in how software components interact to form reliable
   alt="GitHub contribution streak"
 />
 
-<br/><br/>
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=CarrlosU&bg_color=09090b&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity"
-  alt="GitHub contribution activity graph"
-/>
-
 </div>
 
 ---

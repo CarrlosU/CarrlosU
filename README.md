@@ -93,10 +93,6 @@ I approach software development from an architectural perspective, considering m
 
 I'm particularly interested in how software components interact to form reliable, secure, and scalable systems.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### Software Architecture
 
 - System design and architectural patterns
@@ -106,8 +102,7 @@ I'm particularly interested in how software components interact to form reliable
 - Multi-tenant system design
 - Scalability and resilience
 
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### Backend & Data Engineering
 
@@ -118,10 +113,7 @@ I'm particularly interested in how software components interact to form reliable
 - Caching and data access strategies
 - Data isolation and application security
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### Quality & Reliability
 
@@ -132,8 +124,7 @@ I'm particularly interested in how software components interact to form reliable
 - Performance analysis
 - Secure development practices
 
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### Infrastructure & DevOps
 

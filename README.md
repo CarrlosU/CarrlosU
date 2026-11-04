@@ -143,54 +143,20 @@ I'm particularly interested in how software components interact to form reliable
 
 <div align="center">
 
-  <!-- GitHub Stats -->
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=CarrlosU&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&rank_icon=github"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=CarrlosU&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C3BFF&icon_color=6C3BFF&text_color=24212B&rank_icon=github"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=CarrlosU&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&rank_icon=github"
-      width="100%"
-      alt="GitHub statistics"
-    />
-  </picture>
-
-  <br/>
-
-  <!-- Top Languages -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarrlosU&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E4E4E7&langs_count=8"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarrlosU&layout=compact&hide_border=true&bg_color=00000000&title_color=6C3BFF&text_color=24212B&langs_count=8"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarrlosU&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E4E4E7&langs_count=8"
-      width="100%"
-      alt="Most used programming languages"
-    />
-  </picture>
-
-  <br/>
-
-  <!-- Contribution Streak -->
-  <picture>
+    <!-- Dark Mode -->
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://streak-stats.demolab.com?user=CarrlosU&theme=dark&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=9CA3AF"
     />
+
+    <!-- Light Mode -->
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://streak-stats.demolab.com?user=CarrlosU&theme=default&hide_border=true&background=00000000&ring=6C3BFF&fire=6C3BFF&currStreakLabel=6C3BFF&sideLabels=24212B&dates=6B7280"
     />
+
+    <!-- Fallback -->
     <img
       src="https://streak-stats.demolab.com?user=CarrlosU&theme=dark&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=9CA3AF"
       width="100%"

@@ -2,19 +2,37 @@
 
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:09090b,45:3b0764,100:6C3BFF&text=Carlos%20Urrego&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=60&animation=fadeIn"
-/>
+<picture>
+  <!-- DARK MODE: Texto blanco -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:09090b,45:3b0764,100:6C3BFF&text=Carlos%20Urrego&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=60&animation=fadeIn"
+  />
+
+  <!-- LIGHT MODE: Texto oscuro -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:f5f3ff,45:e9d5ff,100:c4b5fd&text=Carlos%20Urrego&fontColor=18102b&fontSize=56&fontAlignY=40&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=60&animation=fadeIn"
+  />
+
+  <!-- Fallback -->
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:09090b,45:3b0764,100:6C3BFF&text=Carlos%20Urrego&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=60&animation=fadeIn"
+    alt="Carlos Urrego - Systems Engineer and Full Stack Developer"
+  />
+</picture>
 
 <br/>
 
 <a href="https://github.com/CarrlosU">
   <img src="https://komarev.com/ghpvc/?username=CarrlosU&style=for-the-badge&color=6C3BFF&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
+
 <a href="https://github.com/CarrlosU?tab=followers">
   <img src="https://img.shields.io/github/followers/CarrlosU?style=for-the-badge&logo=github&label=FOLLOWERS&color=6C3BFF" alt="GitHub followers"/>
 </a>
+
 <a href="https://github.com/CarrlosU?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-6C3BFF?style=for-the-badge&logo=github" alt="Explore repositories"/>
 </a>

@@ -141,30 +141,23 @@ I'm particularly interested in how software components interact to form reliable
 
 ## GitHub Analytics
 
-<div align="center">
-
+<p align="center">
   <picture>
-    <!-- Dark Mode -->
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://streak-stats.demolab.com?user=CarrlosU&theme=dark&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=9CA3AF"
     />
-
-    <!-- Light Mode -->
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://streak-stats.demolab.com?user=CarrlosU&theme=default&hide_border=true&background=00000000&ring=6C3BFF&fire=6C3BFF&currStreakLabel=6C3BFF&sideLabels=24212B&dates=6B7280"
     />
-
-    <!-- Fallback -->
     <img
       src="https://streak-stats.demolab.com?user=CarrlosU&theme=dark&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=9CA3AF"
+      alt="GitHub Contribution Streak"
       width="100%"
-      alt="GitHub contribution streak"
     />
   </picture>
-
-</div>
+</p>
 
 ---
 

@@ -135,10 +135,6 @@ I'm particularly interested in how software components interact to form reliable
 - Environment and configuration management
 - Production monitoring and optimization
 
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## GitHub Analytics

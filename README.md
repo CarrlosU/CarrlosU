@@ -6,18 +6,18 @@
   <!-- DARK MODE -->
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:09090b,50:3b0764,100:6C3BFF&text=Carlos%20Urrego&fontColor=ffffff&fontSize=56&fontAlignY=42&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=65&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:09090b,50:3b0764,100:6C3BFF&text=Carlos%20Urrego&fontColor=ffffff&fontSize=56&fontAlignY=42&desc=Systems%20Engineer%20%7C%20Software%20Engineer&descSize=17&descAlignY=65&animation=fadeIn"
   />
 
   <!-- LIGHT MODE -->
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:f5f3ff,50:ddd6fe,100:6C3BFF&text=Carlos%20Urrego&fontColor=18102b&fontSize=56&fontAlignY=42&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=65&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:f5f3ff,50:ddd6fe,100:6C3BFF&text=Carlos%20Urrego&fontColor=18102b&fontSize=56&fontAlignY=42&desc=Systems%20Engineer%20%7C%20Software%20Engineer&descSize=17&descAlignY=65&animation=fadeIn"
   />
 
   <!-- FALLBACK -->
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:09090b,50:3b0764,100:6C3BFF&text=Carlos%20Urrego&fontColor=ffffff&fontSize=56&fontAlignY=42&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=65&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:09090b,50:3b0764,100:6C3BFF&text=Carlos%20Urrego&fontColor=ffffff&fontSize=56&fontAlignY=42&desc=Systems%20Engineer%20%7C%20Software%20Engineer&descSize=17&descAlignY=65&animation=fadeIn"
     width="100%"
     alt="Carlos Urrego - Systems Engineer | Software Engineer"
   />
@@ -49,9 +49,7 @@
 
 I'm a Systems Engineer and Software Engineer focused on backend engineering, full-stack development, and software architecture.
 
-My work focuses on backend engineering, system architecture, database optimization, application security, and infrastructure automation.
-
-I approach software development from an architectural perspective, considering maintainability, performance, scalability, security, and long-term evolution from the design stage.
+My work spans API development, database design and optimization, application security, infrastructure, and automation. I approach software development with an architectural perspective, prioritizing maintainability, performance, scalability, and long-term evolution.
 
 I also work with AI agents, MCP integrations, Agent Skills, and workflow automation to improve development processes and productivity. My interests also include data analytics, data engineering, and extracting value from structured data.
 
@@ -117,14 +115,16 @@ I'm particularly interested in how software components interact to form reliable
 
 ---
 
-### Quality & Reliability
+### Software Quality & Reliability
 
-- Automated testing
-- Strong typing and validation
+- Unit testing
+- Integration testing
+- End-to-end testing
+- Automated testing with Pytest, Vitest and Playwright
+- Type safety and validation
 - Logging and observability
 - Error handling and fault isolation
-- Performance analysis
-- Secure development practices
+- Performance and security practices
 
 ---
 
@@ -158,17 +158,6 @@ I'm particularly interested in how software components interact to form reliable
 - Tool integration and orchestration
 - AI-assisted development
 - Workflow automation
-
----
-
-### Software Testing & Quality Engineering
-
-- Unit testing
-- Integration testing
-- End-to-end testing
-- Automated testing with Pytest, Vitest and Playwright
-- Type safety and validation
-- Error handling and reliability
 
 ---
 
@@ -240,6 +229,10 @@ SignalR/WebSockets, Redis Streams, PostgreSQL, feature engineering, and experime
 
 <a href="mailto:cs.urrego@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/CarrlosU">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <br/><br/>

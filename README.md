@@ -39,7 +39,7 @@
 
 **Building scalable, secure, and high-performance software.**
 
-*Software Architecture · Backend Engineering · Full Stack Development · DevOps*
+*Software Architecture · Backend Engineering · Full Stack Development · DevOps · AI Agents · Data Analytics*
 
 </div>
 
@@ -52,6 +52,8 @@ I'm a Systems Engineer and Full Stack Developer passionate about designing and b
 My work focuses on backend engineering, system architecture, database optimization, application security, and infrastructure automation.
 
 I approach software development from an architectural perspective, considering maintainability, performance, scalability, security, and long-term evolution from the design stage.
+
+I also work with AI agents, MCP integrations, Agent Skills, and workflow automation to improve development processes and productivity. My interests also include data analytics, data engineering, and extracting value from structured data.
 
 ---
 

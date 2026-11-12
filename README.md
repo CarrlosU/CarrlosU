@@ -47,7 +47,7 @@
 
 ## About Me
 
-I'm a Systems Engineer and Full Stack Developer passionate about designing and building modern software systems, scalable applications, and reliable APIs.
+I'm a Systems Engineer and Software Engineer focused on backend engineering, full-stack development, and software architecture.
 
 My work focuses on backend engineering, system architecture, database optimization, application security, and infrastructure automation.
 
@@ -139,6 +139,39 @@ I'm particularly interested in how software components interact to form reliable
 
 ---
 
+### Data Analytics & Data Engineering
+
+- Data exploration and analysis
+- Structured data processing
+- SQL-based analytics
+- Data transformation and optimization
+- Feature engineering
+- Extracting insights from structured data
+
+---
+
+### AI Agents & Automation
+
+- AI agent integration
+- Model Context Protocol (MCP)
+- Agent Skills and reusable workflows
+- Tool integration and orchestration
+- AI-assisted development
+- Workflow automation
+
+---
+
+### Software Testing & Quality Engineering
+
+- Unit testing
+- Integration testing
+- End-to-end testing
+- Automated testing with Pytest, Vitest and Playwright
+- Type safety and validation
+- Error handling and reliability
+
+---
+
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
 ## GitHub Analytics
@@ -167,11 +200,16 @@ I'm particularly interested in how software components interact to form reliable
 
 <div align="center">
 
-<a href="https://github.com/CarrlosU">
-  <img src="https://img.shields.io/badge/GitHub-CarrlosU-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+<a href="https://www.linkedin.com/in/carlos-santiago-urrego-jim%C3%A9nez-505a76361/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/CarrlosU?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-6C3BFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
+
+<a href="https://carlos-urrego-portfolio.onrender.com/es/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6C3BFF?style=for-the-badge" alt="Portfolio"/>
+</a>
+
+<a href="mailto:cs.urrego@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>

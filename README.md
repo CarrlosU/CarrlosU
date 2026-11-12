@@ -68,26 +68,44 @@ I also work with AI agents, MCP integrations, Agent Skills, and workflow automat
 ### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,nodejs&theme=dark" alt="Backend technologies"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring&theme=dark" alt="Backend technologies"/>
 </p>
+
+<p><strong>SQLAlchemy 2 · REST API Design</strong></p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,wordpress&theme=dark" alt="Frontend technologies"/>
 </p>
 
 ### Databases & Caching
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" alt="Databases and caching"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="Databases and caching"/>
 </p>
 
-### Infrastructure & Developer Tools
+### Infrastructure & CI/CD
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vscode&theme=dark" alt="Infrastructure and developer tools"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions&theme=dark" alt="Infrastructure and CI/CD"/>
 </p>
+
+### AI, Agents & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="AI technologies"/>
+</p>
+
+<p><strong>AI Agents · MCP · Agent Skills · Tool Integration · Workflow Automation</strong></p>
+
+### Testing & Quality Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="Testing technologies"/>
+</p>
+
+<p><strong>Pytest · Vitest · Playwright · Unit Testing · Integration Testing · E2E Testing</strong></p>
 
 ---
 

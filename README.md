@@ -172,6 +172,36 @@ I'm particularly interested in how software components interact to form reliable
 
 ---
 
+## Selected Projects
+
+### DimeloIA
+AI-powered SaaS platform for quotations and voice processing.
+
+Full-stack development involving multi-tenant architecture, APIs, web and mobile applications, PostgreSQL, and AI integration.
+
+[Website](https://dimeloia.com/) · [Case Study](https://carlos-urrego-portfolio.onrender.com/en/projects/dimeloia/)
+
+### JumpProxy Engine
+Infrastructure for proxy validation, analysis, and management.
+
+Asynchronous processing, concurrent validation, Redis, PostgreSQL, and anomaly analysis.
+
+[Case Study](https://carlos-urrego-portfolio.onrender.com/en/projects/jumpproxy-engine/)
+
+### Captcha Automation & Audio Recognition
+Browser automation and audio recognition workflows using Python, Playwright/Patchright, and speech-to-text technologies.
+
+[Case Study](https://carlos-urrego-portfolio.onrender.com/en/projects/captcha-bypass/)
+
+### JetX Data Collector
+Real-time data collection and statistical experimentation.
+
+SignalR/WebSockets, Redis Streams, PostgreSQL, feature engineering, and experimental machine learning.
+
+[Case Study](https://carlos-urrego-portfolio.onrender.com/en/projects/jetx-collector/)
+
+---
+
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
 ## GitHub Analytics

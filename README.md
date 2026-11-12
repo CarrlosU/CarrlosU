@@ -19,7 +19,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:09090b,50:3b0764,100:6C3BFF&text=Carlos%20Urrego&fontColor=ffffff&fontSize=56&fontAlignY=42&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=65&animation=fadeIn"
     width="100%"
-    alt="Carlos Urrego - Systems Engineer and Full Stack Developer"
+    alt="Carlos Urrego - Systems Engineer | Software Engineer"
   />
 </picture>
 

@@ -60,8 +60,10 @@ I also work with AI agents, MCP integrations, Agent Skills, and workflow automat
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,bash&theme=dark" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,go&theme=dark" alt="Programming languages"/>
 </p>
+
+<p><strong>SQL</strong></p>
 
 ### Backend & APIs
 

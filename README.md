@@ -202,13 +202,6 @@ Browser automation and audio recognition workflows using Python, Playwright/Patc
 
 [Case Study](https://carlos-urrego-portfolio.onrender.com/en/projects/captcha-bypass/)
 
-### JetX Data Collector
-Real-time data collection and statistical experimentation.
-
-SignalR/WebSockets, Redis Streams, PostgreSQL, feature engineering, and experimental machine learning.
-
-[Case Study](https://carlos-urrego-portfolio.onrender.com/en/projects/jetx-collector/)
-
 ---
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
